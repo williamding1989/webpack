@@ -28,7 +28,7 @@
     "eslint-loader": "^3.0.3",
     "file-loader": "^4.2.0",
     "glob": "^7.1.6",
-    "html-webpack-plugin": "^3.2.0",
+    "html-webpack-plugin": "^5.5.0",
     "http-server": "^0.12.0",
     "imports-loader": "^0.8.0",
     "jquery": "^3.4.1",
@@ -45,7 +45,7 @@
     "url-loader": "^2.2.0",
     "vue-loader": "^15.7.1",
     "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.9",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.9.0",
     "webpack-merge": "^4.2.2",
     "workbox-webpack-plugin": "^4.3.1"
